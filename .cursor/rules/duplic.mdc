@@ -1,0 +1,7 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+Evite a Duplicaçao de codigo sempre que possivel, o que significa verificar outras aresas do codigo que ja possam ter codigo e funcionalidades semelhantes

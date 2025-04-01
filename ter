@@ -44,3 +44,4 @@
   ESC-u                Undo (toggle) search highlighting.
   ESC-U                Clear search highlighting.
   &_p_a_t_t_e_r_n          *  Display only matching lines.
+        ---------------------------------------------------
